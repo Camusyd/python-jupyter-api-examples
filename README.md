@@ -1,24 +1,25 @@
-# 🐍 python-jupyter-api-examples: Tu Colección de APIs en Python
+# 🐍 Python-Jupyter API Examples
 
-## 💡 Sobre este Repositorio
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Status](https://img.shields.io/badge/Status-Active-success)
 
-Bienvenido a tu caja de herramientas esencial para **consumir, analizar y visualizar datos de APIs** usando el poder de **Python** y la claridad de **Jupyter Notebooks**.
+💡 **Sobre este repositorio**  
+Este proyecto es una **colección de ejemplos prácticos en Python** usando **Jupyter Notebooks** para trabajar con **APIs (Application Programming Interfaces)**.  
 
-Este repositorio es una colección de ejemplos prácticos y listos para usar que demuestran:
-1.  Cómo realizar peticiones HTTP de forma correcta (GET, POST, etc.).
-2.  Cómo procesar y estructurar la respuesta JSON.
-3.  Cómo transformar esos datos en *insights* visuales dentro de un entorno interactivo.
+Aquí encontrarás cómo:  
+- Hacer peticiones HTTP (`GET`, `POST`).  
+- Procesar y estructurar datos en formato **JSON**.  
+- Usar parámetros y autenticación en APIs.  
+- Convertir datos en **insights y visualizaciones** interactivas.  
 
 ---
 
-## 🚀 Cómo Empezar (Setup)
+## 🚀 Cómo empezar
 
-Sigue estos sencillos pasos para tener todos los ejemplos funcionando en tu máquina:
-
-### 1. Clona el Repositorio
-
-Abre tu terminal y ejecuta:
+### 1. Clona este repositorio
 
 ```bash
-git clone [https://github.com/Camusyd/python-jupyter-api-examples.git](https://github.com/Camusyd/python-jupyter-api-examples.git)
+git clone https://github.com/Camusyd/python-jupyter-api-examples.git
 cd python-jupyter-api-examples
+
